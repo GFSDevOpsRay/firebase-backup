@@ -7,7 +7,7 @@ Firebase data backup using node and store in json file.
 Make sure you have [Node.js](http://nodejs.org/) installed.
 
 ```sh
-git clone https://github.com/hardiksondagar/firebase-backup # or clone your own fork
+git clone [https://github.com/GFSDevOpsRay/firebase-backup] # or clone your own fork
 cd firebase-backup
 ```
 
